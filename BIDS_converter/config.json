@@ -72,6 +72,7 @@
       ["LexicalDecRepDelay", "LexicalRepeatWithinDelay"],
       ["LexicalDecRepDelay", "LEXICALDECISIONMAKING"],
       ["LexicalDecRepDelay", "LEXICALDELAY"],
+      ["LexicalDecRepDelay", "LEXICAL DELAY"],
       ["NeighborhoodSternberg", "Neighborhood_Sternberg"],
       ["NeighborhoodSternberg", "NeighborhoodSternberg"],
       ["NeighborhoodSternberg", "Neighborhood_sternberg"],
